@@ -2,8 +2,7 @@
   "name": "react-todo-app",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
-  "homepage": "https://AnsarIbrahim.github.io/TO-DO-React",
+  "homepage": "https://ansaribrahim.github.io/TO-DO-React/",
   "scripts": {
     "dev": "vite --host --open",
     "build": "vite build",
